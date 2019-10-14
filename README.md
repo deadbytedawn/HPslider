@@ -1,7 +1,6 @@
 # HPslider
 
-[[ https://media.giphy.com/media/hsgOYIc1mC0D7PNMdb/giphy.gif | height = 100px ]]
-
+![Farmers Market Finder Demo](https://media.giphy.com/media/hsgOYIc1mC0D7PNMdb/giphy.gif)
 
 I needed a clean and simple HP slide for mobile that showed DMG &amp; HEALING. 
 
