@@ -1,4 +1,8 @@
 # HPslider
+
+[[ https://media.giphy.com/media/hsgOYIc1mC0D7PNMdb/giphy.gif | height = 100px ]]
+
+
 I needed a clean and simple HP slide for mobile that showed DMG &amp; HEALING. 
 
 The trick is to create two Sliders with different fill colors (a FRONT and BACK slider) and give them the same rectTransform.
